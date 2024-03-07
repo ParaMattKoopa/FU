@@ -83,5 +83,5 @@
 	<haxeflag name="--macro" value="include('my.pack')" />
 
 	<!-- _________________________________ Custom _______________________________ -->
-	<icon path="art/icon.png" />
+	<icon path="art/icon.png" embed='true'/>
 </project>
